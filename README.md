@@ -1,27 +1,20 @@
-# NgxFancyLoggerExample
+# NgxFancyLogger Examples
+Angular Console Logging Utility
+> Make debugging easier with more readable and configurable console logs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
-## Development server
+# This application includes following example
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Show Header Log
+- Show Different Log Levels
+- Debug RxJS Observable Stream
 
-## Code scaffolding
+# Resources
+## [Documentation](https://ngx-fancy-logger.netlify.app/#/home) 
+## [Play With All Configuration / Demo Application](https://ngx-fancy-logger.netlify.app/#/demo) 
+## 📚[NPM](https://www.npmjs.com/package/ngx-fancy-logger) 
+## 📄[Blog](https://www.ngdevelop.tech/angular-console-logging-utility-ngx-fancy-logger/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Developed By
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This demo application is made by [NgDevelop](https://ngdevelop.tech/blog) for one of its [article](https://www.ngdevelop.tech/angular-console-logging-utility-ngx-fancy-logger/).
